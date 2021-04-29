@@ -1,0 +1,11 @@
+body{
+     background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/%28Bay_of_Bengal%29_Beach_View_from_Tenneti_Park_06.JPG/1280px-%28Bay_of_Bengal%29_Beach_View_from_Tenneti_Park_06.JPG);
+     background-size: cover;
+     align-items: center;
+     text-align: center;   
+ }
+ button{
+     font-size: 50px;
+     background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/%28Bay_of_Bengal%29_Beach_View_from_Tenneti_Park_06.JPG/1280px-%28Bay_of_Bengal%29_Beach_View_from_Tenneti_Park_06.JPG); 
+ }
+ 
